@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #070707;
+    color: #FFEDA4;
+    height: 2160px;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 6rem 1rem 6rem;
+    font-size: 20px;
+}
+
+.main {
+    margin-top: 20rem;
+    margin-left: 6rem;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+.svg {
+    display: flex;
+}
+
+.svg img {
+    padding-left: 2rem;
+}
+
+.hero-text {
+    font-size: 20px;
+    letter-spacing: 6px;
+}
+
+.arrow {
+    position: absolute;
+    right: 6rem;
+}
+
+.projects {
+    margin-left: 6rem;
+    margin-top: 35rem;
+    margin-right: 6rem;
+}
+
+h2 {
+    color: white;
+    font-size: 50px;
+}
+
+.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2.5rem;
+}
+
+.card {
+    width: 419px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+.flex-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.live {
+    color: #FFEDA4;
+}
+
+.light-text {
+    width: 419px;
+    color: white;
+    margin-top: 1.5rem;
+}
